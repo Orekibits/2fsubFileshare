@@ -23,7 +23,7 @@ OWNER = os.environ.get("OWNER", "sewxiy")
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1214348787"))
 #Port
-PORT = os.environ.get("PORT", "8030")
+PORT = os.environ.get("PORT", "8080")
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://niksharma92297:frwd@cluster0.72m0b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
